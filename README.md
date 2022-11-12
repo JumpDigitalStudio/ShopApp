@@ -1,2 +1,2 @@
-# Задание демо-экзамена
-ShopApp - интернет-магазин канцтоваров
+# ShopApp
+Demo exam task. Local marketplace.
